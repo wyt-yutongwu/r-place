@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2408.13236-b31b1b.svg)](https://arxiv.org/abs/2408.13236)
 
-Code and data for the paper **[No Place for Old Memes: Large-scale Collective Dynamics in the Three Iterations of Reddit r/place](https://arxiv.org/abs/2408.13236)** by Yutong Wu and Arlei Silva.
+Code and data for the paper **[How Millions Coordinate at Scale: Engagement, Collaboration, and Conflict in Three Editions of Reddit r/place ](https://arxiv.org/abs/2408.13236)** by Yutong Wu and Arlei Silva.
 
 ## Overview
 
