@@ -6,15 +6,15 @@ Code and data for the paper **[How Millions Coordinate at Scale: Engagement, Col
 
 ## Overview
 
-The r/place experiment is a series of three social games hosted by Reddit, producing fine-grained traces of sequential actions taken by millions of players. This work is the first to characterize collective behavior during r/place in terms of **engagement**, **collaboration**, and **competition** using tools from computational social science and data science.
+The r/place experiment is a series of three social games hosted by Reddit that produce fine-grained traces of the sequential actions taken by millions of players. This work is the first to characterize collective behavior during r/place in terms of **engagement**, **collaboration**, and **conflict** using tools from computational social science and data science.
 
-Our analysis shows that r/place reflected many patterns found in other group decision-making processes, including empirical evidence for:
+Our analysis shows that r/place reflected many recurring organizational patterns across editions:
 
-- Group coordination costs
-- Social loafing
-- Increased cooperation as a response to competition
+- Participation remains highly concentrated to few participants despite individual rate-limiting constraints
+- Larger coalitions exhibit both greater coordination inefficiencies and lower median per-participant activity despite being successful
+- Analysis of recovered coalition trajectories further shows that coalition outcomes are difficult to predict based on state characteristics during much of the event, highlighting the dynamic and contested nature of collaborative production in r/place
 
-These findings can support the development of new theoretical models, tools, and mechanisms to optimize collaborative-competitive processes in social networks.
+These findings provide new insight into the lifecycle of large-scale online collaboration and suggest design considerations for collaborative systems that must balance participation, coordination, and competition.
 
 ## Repository Structure
 
